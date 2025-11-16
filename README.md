@@ -7,5 +7,5 @@
 - ⚡ I have learned many programming languages through my educational experience,
 - ⚡ I think I am familiar with Julia ...
 
-
+GFW blocks content, but programmers and technology unblock minds. Freedom wins.
 
